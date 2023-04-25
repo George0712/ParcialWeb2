@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\salacomputocentro.ba\Documents\Workspace Jorge\ParcialWeb2\env"
+VIRTUAL_ENV="C:\Users\User\OneDrive\Documentos\Universidad\Ingeniería web\workspace Jorge\Parcial\ParcialWeb2\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
